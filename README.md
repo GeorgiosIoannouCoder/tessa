@@ -241,7 +241,7 @@ The full project code with all the Plotly interactive graphs can be found [here]
 
 ## Report
 
-Project Final Report is located [here](https://github.com/GeorgiosIoannouCoder/tessa/blob/main/report/Ioannu_Georgios_Report.pdf).
+Project Final Report is located [here](https://github.com/GeorgiosIoannouCoder/tessa/blob/main/report/Ioannou_Georgios_Report.pdf).
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
