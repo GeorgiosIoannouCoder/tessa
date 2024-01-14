@@ -42,6 +42,7 @@
         <li><a href="#key-features">Tasks</a></li>
         <li><a href="#dataset">Dataset</a></li>
         <li><a href="#models-built">Models Built</a></li>
+        <li><a href="#models-performance">Models Performance</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -112,6 +113,14 @@
 6. [Random Forest](https://github.com/GeorgiosIoannouCoder/tessa/blob/main/code/models/random_forest/random_forest.ipynb)
 7. [Logistic Regression](https://github.com/GeorgiosIoannouCoder/tessa/blob/main/code/models/logistic_regression/logistic_regression.ipynb)
 8. [Support Vector Machine (SVM)](https://github.com/GeorgiosIoannouCoder/tessa/blob/main/code/models/svm/support_vector_machine.ipynb)
+
+<p align="right"><a href="#readme-top">Back to top</a></p>
+
+### Models Performance
+
+  <a href="https://github.com/GeorgiosIoannouCoder/tessa/blob/main/models_performance/models_performance.png">
+    <img src="./models_performance/models_performance.png" alt="Models Performance">
+  </a>
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
