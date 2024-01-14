@@ -81,7 +81,7 @@
 | ----- |
 | Create Github Repository |
 | Brainstorm Project |
-| Finding Dataset |
+| Find Dataset |
 | EDA |
 | Data Preprocessing |
 | Data Modeling: Random forest, Decision Tree |
@@ -162,7 +162,7 @@
    - Mac: [https://git-scm.com/download/mac](https://git-scm.com/download/mac)
    - Linux: [https://git-scm.com/download/linux](https://git-scm.com/download/linux)
 
-3. Please look at the [setup](https://github.com/GeorgiosIoannouCoder/tessa/tree/main/setup) folder found in this project.
+3. Please look at the [setup](https://github.com/GeorgiosIoannouCoder/tessa/tree/main/setup) folder found in this project to find the directions specific to your operating system. The general instructions can also be found below.
 
 ### Setup
 
