@@ -8,11 +8,11 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][github-shield]][github-url]
 
-# [TESSA](https://tessa.streamlit.app) | Text Emotion System Sentiment Analysis
+# [TESSA](https://tessa-deployed.streamlit.app) | Text Emotion System Sentiment Analysis
 
 <br />
 <div align="center">
-  <a href="https://tessa.streamlit.app">
+  <a href="https://tessa-deployed.streamlit.app">
     <img src="./logo/logo.png" alt="Logo">
   </a>
 
@@ -24,7 +24,7 @@
     <a href="https://github.com/GeorgiosIoannouCoder/tessa"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://tessa.streamlit.app">View Web Application</a>
+    <a href="https://tessa-deployed.streamlit.app">View Web Application</a>
     ·
     <a href="https://github.com/GeorgiosIoannouCoder/tessa/issues">Report Bug</a>
     ·
@@ -63,13 +63,13 @@
 
 ## About The Project
 
-  <a href="https://tessa.streamlit.app">
+  <a href="https://tessa-deployed.streamlit.app">
       <img src="./logo/logo.png" alt="Logo" width="200" height="50" style="display: block; margin-left: auto; margin-right: auto;">
   </a>
 
 ### Application Graphical User Interface
 
- <a href="https://tessa.streamlit.app">
+ <a href="https://tessa-deployed.streamlit.app">
     <img src="./gui/GUI.jpg" alt="Logo">
  </a>
 
