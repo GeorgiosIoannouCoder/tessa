@@ -24,7 +24,7 @@ from nltk import word_tokenize  # Tokenize.
 from tensorflow.keras.models import load_model  # To load the model.
 from tensorflow.keras.preprocessing.sequence import (
     pad_sequences,
-)  # Transformsa list of sequences into a 2D Numpy array.
+)  # Transforms a list of sequences into a 2D Numpy array.
 
 nltk.download("stopwords")
 nltk.download("wordnet")
