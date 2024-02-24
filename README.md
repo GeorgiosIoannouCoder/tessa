@@ -38,8 +38,8 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#application-user-interface">Application User Interface</a></li>
-        <li><a href="#key-features">Tasks</a></li>
+        <li><a href="#application-graphical-user-interface">Application Graphical User Interface</a></li>
+        <li><a href="#tasks">Tasks</a></li>
         <li><a href="#dataset">Dataset</a></li>
         <li><a href="#models-built">Models Built</a></li>
         <li><a href="#models-performance">Models Performance</a></li>
