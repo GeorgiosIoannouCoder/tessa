@@ -357,4 +357,29 @@ Project Link: [https://github.com/GeorgiosIoannouCoder/tessa](https://github.com
 [Plotly-url]: https://plotly.com/
 
 [Kaggle]: https://img.shields.io/badge/kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20beff
-[Kaggle-url]: https://www.kaggle.com/
+[Kaggle-url]: https://www.kaggle.com/> ## 📘 SVM Sentiment (TF-IDF → LinearSVC, calibrated)
+> 
+> This feature trains a **3-class sentiment** model (negative / neutral / positive) on the **TweetEval** dataset using **TF-IDF → LinearSVC** with **probability calibration** (for PR curves). It saves a confusion matrix and per-class PR curves you can drop into reports.
+> 
+> ### 1) Prerequisites
+> - Python 3.10+ recommended (works on macOS/Windows/Linux).
+> - Git and virtualenv (or Conda).
+> - Internet access (first run downloads `tweet_eval` from Hugging Face).
+> 
+> > Note for Apple Silicon/macOS + Python 3.12: TensorFlow pins in the repo are **not** needed for this feature.
+> 
+> ---
+> 
+> ### 2) Setup (one-time)
+> ```bash
+> # from your repo root
+> python3 -m venv .svm-env
+> source .svm-env/bin/activate        # Windows: .\.svm-env\Scripts\Activate.ps1
+> python -m pip install -U pip
+> 
+> # try project deps (if they fail due to TF pins, that's OK—next line installs what we need)
+> pip install -r requirements.txt || echo "Skipping TF; installing minimal deps…"
+> 
+> # minimal deps for SVM feature
+> pip install scikit-learn datasets matplotlib pytest
+> ```
